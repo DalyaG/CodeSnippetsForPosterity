@@ -1,4 +1,5 @@
 # YATS - Yet Another TSP Solution
 
-This notebook accompanies a blog post by the same name.
-You can find the blog post here [soon to be linked].
+This notebook accompanies a 
+[blog post](https://medium.com/hackernoon/yats-yet-another-tsp-solution-6a71aeabe1f8)
+by the same name.
