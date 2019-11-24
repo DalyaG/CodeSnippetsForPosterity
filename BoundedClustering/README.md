@@ -1,5 +1,5 @@
 # Bounded Clustering
 
 This notebook accompanies a 
-[blog post](https://medium.com/@dalyag)
+[blog post](http://bit.ly/BoundedClustering)
 by the same name.
