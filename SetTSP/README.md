@@ -1,5 +1,5 @@
 # Set-TSP - Because There Is More Than One Place to Get Bread
 
 This notebook accompanies a 
-[blog post]()
-by the same name, which will one day be written.
+[blog post](https://towardsdatascience.com/set-tsp-because-there-is-more-than-one-place-to-get-bread-712fdb5b381)
+by the same name.
